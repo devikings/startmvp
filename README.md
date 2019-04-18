@@ -2,8 +2,9 @@
 . O objetivo desse repositório é registrar os estudos sobre o padrão de estrutura MVP em uma aplicação Android
 
 ## Dia 1
-- Ainda não compreendo muito bem o conceito de MVP(model, view, presenter), com bases nos estudos anteriores consegui entender como separar as camadas, mais ainda não sei como estruturar corretamente e a nomeclatura dos arquivos.
-- Hoje vou criar a tela de login e tentar estrutura o mvp antes de comecar desenvolvar as telas, acredito que pra isso eu precise imaginar as responsabilidades da minha view e da minha regra de negocio
+### Projeto
+. Ainda não compreendo muito bem o conceito de MVP(model, view, presenter), com bases nos estudos anteriores consegui entender como separar as camadas, mais ainda não sei como estruturar corretamente e a nomeclatura dos arquivos.
+. Hoje vou criar a tela de login e tentar estrutura o mvp antes de comecar desenvolvar as telas, acredito que pra isso eu precise imaginar as responsabilidades da minha view e da minha regra de negocio
 
 . Responsabilidade da View:
 - [] Verificar se os campos foram preenchido
@@ -12,4 +13,9 @@
 
 . Responsabilidade do Presenter:
 - [] Método para logar o usuario
+
+![](https://drive.google.com/open?id=1nhywGltLLkfkZHgvwO1Wj20ecjg3iHJ1)
+
+### Links
+[Como fazer um README.md BONITÃO](https://medium.com/@raullesteves/github-como-fazer-um-readme-md-bonit%C3%A3o-c85c8f154f8)
 
